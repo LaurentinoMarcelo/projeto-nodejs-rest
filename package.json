@@ -9,21 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LaurentinoMarcelo/projeto-nodejs-rest.git"
+    "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
   },
-  "author": "Marcelo Laurentino",
+  "author": "juliana negreiros",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LaurentinoMarcelo/projeto-nodejs-rest/issues"
+    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/LaurentinoMarcelo/projeto-nodejs-rest#readme",
+  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
   "dependencies": {
-    "body-parser": "^1.19.0",
     "consign": "^0.1.6",
     "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^1.19.2"
   }
 }
